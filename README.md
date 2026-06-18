@@ -14,7 +14,7 @@
 *I build at the intersection of GPU-accelerated engineering and immersive visual design.*
 *The Three.js team noticed the work. That's what happens when you treat the browser like a cinema screen.*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-apoorv--xs-000000?style=flat-square&logo=vercel&logoColor=white)](https://kind-hill-0f62bf300.3.azurestaticapps.net/)
+[![Portfolio](https://img.shields.io/badge/🎮_Portfolio-Play_Now-000000?style=flat-square)](https://kind-hill-0f62bf300.3.azurestaticapps.net/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-apoorv--a--s-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/apoorv-a-s)
 [![Maison Anima](https://img.shields.io/badge/Live_Demo-Maison_Anima-8B5CF6?style=flat-square&logo=vercel&logoColor=white)](https://maison-anima.vercel.app)
 
