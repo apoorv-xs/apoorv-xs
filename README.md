@@ -45,7 +45,7 @@
 |---|---|---|
 | 🌐 **[Web Eras](https://github.com/apoorv-xs)** | Cinematic 3D coordinate field tracing the history of the web. Three.js team noticed it. | `In Progress` |
 | ✨ **[Maison Anima](https://github.com/apoorv-xs/Maison-Anima)** | Luxury e-commerce frontend — GSAP, Web Audio API foley synthesis, wax-seal login, 3D parallax. | [→ Live](https://maison-anima.vercel.app) |
-| 🔥 **[Flux](https://github.com/apoorv-xs/Flux)** | Real-time Navier-Stokes fluid simulation in WebGL. Double-buffered shader pipeline. Design-to-code exporter. | `Deploy soon` |
+| 🔥 **[Flux](https://github.com/apoorv-xs/Flux)** | Real-time Navier-Stokes fluid simulation in WebGL. Double-buffered shader pipeline. Design-to-code exporter. | [→ Live](https://flux-fluid-studio.vercel.app) |
 | 🔭 **[Oversight](https://github.com/apoorv-xs/Oversight)** | Full-stack network monitor — live packet capture → 3D WebGL globe at 60 FPS. Python / FastAPI / WebSockets. | [→ Repo](https://github.com/apoorv-xs/Oversight) |
 | 👾 **[LevelDevil](https://github.com/apoorv-xs/LevelDevil)** | Game-inspired portfolio. Custom collision logic, speedrun mechanics. Vanilla JS, no frameworks. | [→ Live](https://kind-hill-0f62bf300.3.azurestaticapps.net) |
 
