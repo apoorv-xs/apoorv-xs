@@ -16,7 +16,7 @@
 
 [![Portfolio](https://img.shields.io/badge/🎮_Portfolio-Play_Now-000000?style=flat-square)](https://kind-hill-0f62bf300.3.azurestaticapps.net/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-apoorv--a--s-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/apoorv-a-s)
-[![X](https://img.shields.io/badge/-%20?style=flat-square&logo=x&logoColor=white&color=black)](https://x.com/apoorv_xs)
+[![X](https://img.shields.io/badge/X-%40apoorv__xs-black?style=flat-square&logo=x&logoColor=white)](https://x.com/apoorv_xs)
 [![Maison Anima](https://img.shields.io/badge/Live_Demo-Maison_Anima-8B5CF6?style=flat-square&logo=vercel&logoColor=white)](https://maison-anima.vercel.app)
 [![Flux](https://img.shields.io/badge/Live_Demo-Flux-34D399?style=flat-square&logo=webgl&logoColor=white)](https://flux-fluid-studio.vercel.app/)
 
