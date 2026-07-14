@@ -18,7 +18,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-apoorv--a--s-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/apoorv-a-s)
 [![X](https://img.shields.io/badge/X-%40apoorv__xs-black?style=flat-square&logo=x&logoColor=white)](https://x.com/apoorv_xs)
 [![Maison Anima](https://img.shields.io/badge/Live_Demo-Maison_Anima-8B5CF6?style=flat-square&logo=vercel&logoColor=white)](https://maison-anima.vercel.app)
-[![ERAVEX](https://img.shields.io/badge/Live_Demo-Flux-34D399?style=flat-square&logo=webgl&logoColor=white)](https://eravex.vercel.app/)
+[![ERAVEX](https://img.shields.io/badge/Live_Demo-ERAVEX-34D399?style=flat-square&logo=webgl&logoColor=white)](https://eravex.vercel.app/)
 
 </div>
 
