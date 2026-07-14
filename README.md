@@ -11,7 +11,7 @@
 
 **Frontend Engineer & Creative Developer**
 
-*I build at the intersection of GPU-accelerated engineering and immersive visual design.*
+*Creative Technologist & 3D UI Engineer. Three.js · WebGL · WebGPU. Built ERAVEX—a full-runtime GPU spatial engine. Open to work..*
 *The Three.js team noticed the work. That's what happens when you treat the browser like a cinema screen.*
 
 [![Portfolio](https://img.shields.io/badge/🎮_Portfolio-Play_Now-000000?style=flat-square)](https://kind-hill-0f62bf300.3.azurestaticapps.net/)
@@ -45,7 +45,7 @@
 
 | Project | What it is | Live |
 |---|---|---|
-| 🌐 **[Web Eras](https://github.com/apoorv-xs)** | Cinematic 3D coordinate field tracing the history of the web. Three.js team noticed it. | `In Progress` |
+| 🌐 **[ERAVEX](https://github.com/apoorv-xs)** | Cinematic 3D coordinate field tracing the history of the web. Three.js team noticed it. | [→ Live](https://eravex.vercel.app/) |
 | ✨ **[Maison Anima](https://github.com/apoorv-xs/Maison-Anima)** | Luxury e-commerce frontend — GSAP, Web Audio API foley synthesis, wax-seal login, 3D parallax. | [→ Live](https://maison-anima.vercel.app) |
 | 🔥 **[Flux](https://github.com/apoorv-xs/Flux)** | Real-time Navier-Stokes fluid simulation in WebGL. Double-buffered shader pipeline. Design-to-code exporter. | [→ Live](https://flux-fluid-studio.vercel.app) |
 | 🔭 **[Oversight](https://github.com/apoorv-xs/Oversight)** | Full-stack network monitor — live packet capture → 3D WebGL globe at 60 FPS. Python / FastAPI / WebSockets. | [→ Repo](https://github.com/apoorv-xs/Oversight) |
