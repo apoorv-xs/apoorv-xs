@@ -60,6 +60,6 @@ Performance and aesthetics aren't a tradeoff.
 They're the same problem.
 ```
 
-*Currently building* · **Web Eras — Era II: Terminal** · *2026 Grad · Open to work*
+*Currently building* · **ERAVEX — Era II: Terminal** · *2026 Grad · Open to work*
 
 </div>
