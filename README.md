@@ -9,9 +9,9 @@
 ╚═╝  ╚═╝╚═╝      ╚═════╝  ╚═════╝ ╚═╝  ╚═╝  ╚═══╝  
 ```
 
-**Frontend Engineer & Creative Developer**
+**Independent 3D Graphics & Real-Time WebGL Systems Engineer**
 
-*Creative Technologist & 3D UI Engineer. Three.js · WebGL · WebGPU. Built ERAVEX—a full-runtime GPU spatial engine. Open to work..*
+*Creative Technologist & Spatial Systems Architect. Three.js · WebGL · WebGPU · Shaders. Built ERAVEX—a full-runtime GPU spatial engine.*
 *The Three.js team noticed the work. That's what happens when you treat the browser like a cinema screen.*
 
 [![Portfolio](https://img.shields.io/badge/🎮_Portfolio-Play_Now-000000?style=flat-square)](https://kind-hill-0f62bf300.3.azurestaticapps.net/)
@@ -60,6 +60,6 @@ Performance and aesthetics aren't a tradeoff.
 They're the same problem.
 ```
 
-*Currently building* · **ERAVEX — Era II: Terminal** · *2026 Grad · Open to work*
+*Currently building* · **ERAVEX — Era II: Terminal** · *Available for High-Impact Advisory & 60 FPS Performance Contracts*
 
 </div>
