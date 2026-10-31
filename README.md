@@ -14,7 +14,7 @@
 *Creative Technologist & Spatial Systems Architect. Three.js · WebGL · WebGPU · Shaders. Built ERAVEX—a full-runtime GPU spatial engine.*
 *The Three.js team noticed the work. That's what happens when you treat the browser like a cinema screen.*
 
-[![Portfolio](https://img.shields.io/badge/🎮_Portfolio-Play_Now-000000?style=flat-square)](https://kind-hill-0f62bf300.3.azurestaticapps.net/)
+[![Portfolio](https://img.shields.io/badge/🎮_Portfolio-Play_Now-000000?style=flat-square)](https://apoorv.qzz.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-apoorv--a--s-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/apoorv-a-s)
 [![X](https://img.shields.io/badge/X-%40apoorv__xs-black?style=flat-square&logo=x&logoColor=white)](https://x.com/apoorv_xs)
 [![Maison Anima](https://img.shields.io/badge/Live_Demo-Maison_Anima-8B5CF6?style=flat-square&logo=vercel&logoColor=white)](https://maison-anima.vercel.app)
@@ -54,13 +54,15 @@
 
 ### Featured Projects
 
-| Project | What it is | Live |
+| Project | What it is | Live / Link |
 |---|---|---|
+| ⚡ **[Solana Validator Core](https://github.com/apoorv-xs/solana-validator-transaction-ordering)** | Deep L1 systems research: BankingStage, Jito MEV bundles, write-lock contention & latency simulations. | [→ Repo](https://github.com/apoorv-xs/solana-validator-transaction-ordering) |
+| 🏢 **[Twenty CRM (YC W23)](https://github.com/twentyhq/twenty/pull/29173)** | Core server contribution: OAuth token refresh & provider expiration synchronization. Merged into main. | [→ PR #29173](https://github.com/twentyhq/twenty/pull/29173) |
 | 🌐 **[ERAVEX](https://github.com/apoorv-xs)** | Cinematic 3D coordinate field tracing the history of the web. Three.js team noticed it. | [→ Live](https://eravex.vercel.app/) |
 | ✨ **[Maison Anima](https://github.com/apoorv-xs/Maison-Anima)** | Luxury e-commerce frontend — GSAP, Web Audio API foley synthesis, wax-seal login, 3D parallax. | [→ Live](https://maison-anima.vercel.app) |
 | 🔥 **[Flux](https://github.com/apoorv-xs/Flux)** | Real-time Navier-Stokes fluid simulation in WebGL. Double-buffered shader pipeline. Design-to-code exporter. | [→ Live](https://flux-fluid-studio.vercel.app) |
 | 🔭 **[Oversight](https://github.com/apoorv-xs/Oversight)** | Full-stack network monitor — live packet capture → 3D WebGL globe at 60 FPS. Python / FastAPI / WebSockets. | [→ Repo](https://github.com/apoorv-xs/Oversight) |
-| 👾 **[LevelDevil](https://github.com/apoorv-xs/LevelDevil)** | Game-inspired portfolio. Custom collision logic, speedrun mechanics. Vanilla JS, no frameworks. | [→ Live](https://kind-hill-0f62bf300.3.azurestaticapps.net) |
+| 👾 **[LevelDevil](https://github.com/apoorv-xs/LevelDevil)** | Game-inspired portfolio. Custom collision logic, speedrun mechanics. Vanilla JS, no frameworks. | [→ Live](https://apoorv.qzz.io) |
 
 ---
 
