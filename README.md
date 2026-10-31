@@ -21,8 +21,19 @@
 [![ERAVEX](https://img.shields.io/badge/Live_Demo-ERAVEX-34D399?style=flat-square&logo=webgl&logoColor=white)](https://eravex.vercel.app/)
 
 </div>
-
 ---
+
+<div align="center">
+
+### 🛡️ Verified Proof-of-Work & Institutional Validation
+
+[![Twenty CRM Core Contributor](https://img.shields.io/badge/Twenty_CRM_(YC_W23)-Core_Contributor_(Commit_ddcddd4)-20232A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/twentyhq/twenty/pull/29173)
+[![Wordfence Security Researcher](https://img.shields.io/badge/Wordfence-AppSec_Researcher_(CWE--862)-D9381E?style=for-the-badge&logo=shield&logoColor=white)](https://www.wordfence.com/threat-intel/bug-bounty-program/)
+[![Three.js Recognized](https://img.shields.io/badge/Three.js-Recognized_by_Team-000000?style=for-the-badge&logo=threedotjs&logoColor=white)](https://eravex.vercel.app/)
+[![Solana L1 Protocol](https://img.shields.io/badge/Solana-L1_Protocol_Researcher-14F195?style=for-the-badge&logo=solana&logoColor=black)](https://github.com/apoorv-xs/solana-validator-transaction-ordering)
+
+</div>
+
 
 <div align="center">
 
