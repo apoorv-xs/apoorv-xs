@@ -27,6 +27,7 @@
 
 ### 🛡️ Verified Proof-of-Work & Institutional Validation
 
+[![Twenty CRM React 19 Performance](https://img.shields.io/badge/Twenty_CRM_(YC_W23)-React_19_Performance_(PR_#29349)-20232A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/twentyhq/twenty/pull/29349)
 [![Twenty CRM Core Contributor](https://img.shields.io/badge/Twenty_CRM_(YC_W23)-Core_Contributor_(Commit_ddcddd4)-20232A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/twentyhq/twenty/pull/29173)
 [![Wordfence Security Researcher](https://img.shields.io/badge/Wordfence-AppSec_Researcher_(CWE--862)-D9381E?style=for-the-badge&logo=shield&logoColor=white)](https://www.wordfence.com/threat-intel/bug-bounty-program/)
 [![Three.js Recognized](https://img.shields.io/badge/Three.js-Recognized_by_Team-000000?style=for-the-badge&logo=threedotjs&logoColor=white)](https://eravex.vercel.app/)
@@ -56,6 +57,8 @@
 
 | Project | What it is | Live / Link |
 |---|---|---|
+| ⚡ **[Twenty CRM React 19 Engine](https://github.com/twentyhq/twenty/pull/29349)** | Fixed infinite re-render cascading in `useFrontComponentExecutionContext` object selectors during heavy React 19 reconciliation. Merged into main. | [→ PR #29349](https://github.com/twentyhq/twenty/pull/29349) |
+| 💎 **[Swap.io x402 Kinetic Vault](https://apoorv-xs.github.io/swap-x402/)** | Autonomous 60 FPS WebGL kinetic visualizer & procedural mesh with x402 on-chain USDC micropayment protocol. | [→ Live](https://apoorv-xs.github.io/swap-x402/) \| [Repo](https://github.com/apoorv-xs/swap-x402) |
 | ⚡ **[Solana Validator Core](https://github.com/apoorv-xs/solana-validator-transaction-ordering)** | Deep L1 systems research: BankingStage, Jito MEV bundles, write-lock contention & latency simulations. | [→ Repo](https://github.com/apoorv-xs/solana-validator-transaction-ordering) |
 | 🏢 **[Twenty CRM (YC W23)](https://github.com/twentyhq/twenty/pull/29173)** | Core server contribution: OAuth token refresh & provider expiration synchronization. Merged into main. | [→ PR #29173](https://github.com/twentyhq/twenty/pull/29173) |
 | 🌐 **[ERAVEX](https://github.com/apoorv-xs)** | Cinematic 3D coordinate field tracing the history of the web. Three.js team noticed it. | [→ Live](https://eravex.vercel.app/) |
